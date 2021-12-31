@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1595809929 source:c:\users\wesley\documents\ads_fatec_rp\agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<ctype.h>
+	<string.h>
+
